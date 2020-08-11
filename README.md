@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Kyla's test website
 
-You can use the [editor on GitHub](https://github.com/kdahlin/profile_test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kyla's lab's real website is [ERSAM Lab](https://www.ersamlab.com) so go there. This is just for fun.
 
 ### Markdown
 
