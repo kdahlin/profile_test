@@ -21,5 +21,4 @@ Look! I'm writing something in a gray box. Look at this gray box. It's just so g
 1. also there can be **numbers**
 2. and even _italicized_ code - woohoo.
 
-![this is a test image](https://www.ersamlab.com/uploads/5/3/5/5/53550631/img-1652_orig.jpg)
 ```
