@@ -6,6 +6,8 @@ Kyla's lab's real website is [ERSAM Lab](https://www.ersamlab.com) so go there. 
 
 Inside Higher Ed article [Needed: Leadership Training for Faculty and Academic Staff](https://www.insidehighered.com/advice/2019/11/22/importance-cultivating-leadership-skills-among-faculty-and-academic-staff-members)
 
+From Dr. Beronda Montgomery [Academic Leadership: Gatekeeping or Groundskeeping?](https://scholar.valpo.edu/jvbl/vol13/iss2/16/)
+
 ```markdown
 Syntax highlighted code block
 
