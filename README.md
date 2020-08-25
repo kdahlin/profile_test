@@ -8,6 +8,22 @@ Inside Higher Ed article [Needed: Leadership Training for Faculty and Academic S
 
 From Dr. Beronda Montgomery [Academic Leadership: Gatekeeping or Groundskeeping?](https://scholar.valpo.edu/jvbl/vol13/iss2/16/)
 
+# This is Header 1
+## This is Header 2
+### This is Header 3
+
+- look a list
+- with bullets!
+
+1. also there can be **numbers**
+2. and even _italicized_ code - woohoo.
+
+### Let's make a task list
+- [x] make website
+- [ ] add emojis
+- [ ] get a task list to work?
+- [x] add images
+
 ```markdown
 Look! I'm writing something in a gray box. Look at this gray box. It's just so gray. And boxy.
 
