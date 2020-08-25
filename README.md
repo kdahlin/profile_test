@@ -22,3 +22,6 @@ Look! I'm writing something in a gray box. Look at this gray box. It's just so g
 2. and even _italicized_ code - woohoo.
 
 ```
+### Fun with Emojis! What do I research in six emojis, you didn't ask?
+
+:sunny: :deciduous_tree: :evergreen_tree: :leaves: :national_park: :world_map: 
