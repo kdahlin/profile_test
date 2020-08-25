@@ -21,6 +21,11 @@ Look! I'm writing something in a gray box. Look at this gray box. It's just so g
 1. also there can be **numbers**
 2. and even _italicized_ code - woohoo.
 
+### Let's make a task list
+- [x] make website
+- [x] add emojis
+- [ ] add images
+
 ```
 ### Fun with Emojis! What do I research in six emojis, you didn't ask?
 
