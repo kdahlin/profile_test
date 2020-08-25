@@ -31,3 +31,7 @@ Look! I'm writing something in a gray box. Look at this gray box. It's just so g
 ### Fun with Emojis! What do I research in six emojis, you didn't ask?
 
 :sunny: :deciduous_tree: :evergreen_tree: :leaves: :national_park: :world_map: 
+
+### I would really like to embed an image here
+![Kyla image](https://www.ersamlab.com/uploads/5/3/5/5/53550631/img-1652_orig.jpg)
+
